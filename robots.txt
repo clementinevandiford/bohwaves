@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ujeingooy.iosfejleszto.hu/sitemap.xml
